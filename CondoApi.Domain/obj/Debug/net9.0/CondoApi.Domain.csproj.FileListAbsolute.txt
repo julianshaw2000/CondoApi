@@ -9,3 +9,4 @@ C:\guest-man\theApi\CondoApi.Domain\obj\Debug\net9.0\CondoApi.Domain.dll
 C:\guest-man\theApi\CondoApi.Domain\obj\Debug\net9.0\refint\CondoApi.Domain.dll
 C:\guest-man\theApi\CondoApi.Domain\obj\Debug\net9.0\CondoApi.Domain.pdb
 C:\guest-man\theApi\CondoApi.Domain\obj\Debug\net9.0\ref\CondoApi.Domain.dll
+C:\guest-man\theApi\CondoApi.Domain\obj\Debug\net9.0\CondoApi.Domain.sourcelink.json

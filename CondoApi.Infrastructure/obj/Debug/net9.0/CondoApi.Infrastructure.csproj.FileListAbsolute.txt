@@ -17,3 +17,4 @@ C:\guest-man\theApi\CondoApi.Infrastructure\obj\Debug\net9.0\refint\CondoApi.Inf
 C:\guest-man\theApi\CondoApi.Infrastructure\obj\Debug\net9.0\CondoApi.Infrastructure.pdb
 C:\guest-man\theApi\CondoApi.Infrastructure\obj\Debug\net9.0\CondoApi.Infrastructure.genruntimeconfig.cache
 C:\guest-man\theApi\CondoApi.Infrastructure\obj\Debug\net9.0\ref\CondoApi.Infrastructure.dll
+C:\guest-man\theApi\CondoApi.Infrastructure\obj\Debug\net9.0\CondoApi.Infrastructure.sourcelink.json

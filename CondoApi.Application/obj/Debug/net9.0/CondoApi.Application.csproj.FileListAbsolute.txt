@@ -13,3 +13,4 @@ C:\guest-man\theApi\CondoApi.Application\obj\Debug\net9.0\CondoApi.Application.d
 C:\guest-man\theApi\CondoApi.Application\obj\Debug\net9.0\refint\CondoApi.Application.dll
 C:\guest-man\theApi\CondoApi.Application\obj\Debug\net9.0\CondoApi.Application.pdb
 C:\guest-man\theApi\CondoApi.Application\obj\Debug\net9.0\ref\CondoApi.Application.dll
+C:\guest-man\theApi\CondoApi.Application\obj\Debug\net9.0\CondoApi.Application.sourcelink.json
