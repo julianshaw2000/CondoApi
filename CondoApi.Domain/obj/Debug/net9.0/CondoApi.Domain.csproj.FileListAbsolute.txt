@@ -1,0 +1,11 @@
+C:\guest-man\theApi\CondoApi.Domain\bin\Debug\net9.0\CondoApi.Domain.deps.json
+C:\guest-man\theApi\CondoApi.Domain\bin\Debug\net9.0\CondoApi.Domain.dll
+C:\guest-man\theApi\CondoApi.Domain\bin\Debug\net9.0\CondoApi.Domain.pdb
+C:\guest-man\theApi\CondoApi.Domain\obj\Debug\net9.0\CondoApi.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\guest-man\theApi\CondoApi.Domain\obj\Debug\net9.0\CondoApi.Domain.AssemblyInfoInputs.cache
+C:\guest-man\theApi\CondoApi.Domain\obj\Debug\net9.0\CondoApi.Domain.AssemblyInfo.cs
+C:\guest-man\theApi\CondoApi.Domain\obj\Debug\net9.0\CondoApi.Domain.csproj.CoreCompileInputs.cache
+C:\guest-man\theApi\CondoApi.Domain\obj\Debug\net9.0\CondoApi.Domain.dll
+C:\guest-man\theApi\CondoApi.Domain\obj\Debug\net9.0\refint\CondoApi.Domain.dll
+C:\guest-man\theApi\CondoApi.Domain\obj\Debug\net9.0\CondoApi.Domain.pdb
+C:\guest-man\theApi\CondoApi.Domain\obj\Debug\net9.0\ref\CondoApi.Domain.dll

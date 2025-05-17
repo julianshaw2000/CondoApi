@@ -1,0 +1,15 @@
+C:\guest-man\theApi\CondoApi.Application\bin\Debug\net9.0\CondoApi.Application.deps.json
+C:\guest-man\theApi\CondoApi.Application\bin\Debug\net9.0\CondoApi.Application.dll
+C:\guest-man\theApi\CondoApi.Application\bin\Debug\net9.0\CondoApi.Application.pdb
+C:\guest-man\theApi\CondoApi.Application\bin\Debug\net9.0\CondoApi.Domain.dll
+C:\guest-man\theApi\CondoApi.Application\bin\Debug\net9.0\CondoApi.Domain.pdb
+C:\guest-man\theApi\CondoApi.Application\obj\Debug\net9.0\CondoApi.Application.csproj.AssemblyReference.cache
+C:\guest-man\theApi\CondoApi.Application\obj\Debug\net9.0\CondoApi.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\guest-man\theApi\CondoApi.Application\obj\Debug\net9.0\CondoApi.Application.AssemblyInfoInputs.cache
+C:\guest-man\theApi\CondoApi.Application\obj\Debug\net9.0\CondoApi.Application.AssemblyInfo.cs
+C:\guest-man\theApi\CondoApi.Application\obj\Debug\net9.0\CondoApi.Application.csproj.CoreCompileInputs.cache
+C:\guest-man\theApi\CondoApi.Application\obj\Debug\net9.0\CondoApi.6DB588B0.Up2Date
+C:\guest-man\theApi\CondoApi.Application\obj\Debug\net9.0\CondoApi.Application.dll
+C:\guest-man\theApi\CondoApi.Application\obj\Debug\net9.0\refint\CondoApi.Application.dll
+C:\guest-man\theApi\CondoApi.Application\obj\Debug\net9.0\CondoApi.Application.pdb
+C:\guest-man\theApi\CondoApi.Application\obj\Debug\net9.0\ref\CondoApi.Application.dll
